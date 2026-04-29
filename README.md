@@ -59,7 +59,7 @@ Performed key analyses using SQL:
 - Tree Map (Category Contribution)  
 - Matrix (Age Group vs Gender)  
 - Key Influencers Visual  
-[Sales Dashboard](dashboard1.png)
+[Sales Dashboard](Dashboard1.jepg)
 ---
 
 ## 📈 Key Insights  
@@ -68,7 +68,7 @@ Performed key analyses using SQL:
 - Beauty category has the lowest sales  
 - Female customers contribute slightly more than male customers  
 - Age group 45–54 contributes the highest sales  
-[Customer Dashboard](dashboard2.png)
+[Customer Dashboard](Dashboard2.jepg)
 ---
 
 ## 💡 Business Impact  
