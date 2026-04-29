@@ -28,7 +28,7 @@ The dataset includes the following fields:
 ### 1️⃣ Data Preparation (Excel)  
 - Cleaned and structured raw data  
 - Handled missing values and formatting issues  
-- Created derived columns such as:
+- Created derived columns:
   - Age Group  
   - Weekday vs Weekend  
 
@@ -36,30 +36,24 @@ The dataset includes the following fields:
 
 ### 2️⃣ Data Analysis (SQL)  
 Performed key analyses using SQL:  
-- Calculated Total Sales and Total Orders  
-- Analyzed Sales by Product Category  
+- Total Sales and Total Orders  
+- Sales by Product Category  
 - Customer segmentation (Gender, Age Group)  
-- Time-based analysis (Monthly Sales)  
-- Used GROUP BY, SUM, COUNT for aggregation  
+- Monthly Sales Analysis using date conversion  
+- Aggregations using GROUP BY, SUM, COUNT  
 
 ---
 
 ### 3️⃣ Data Visualization (Power BI)  
 
-#### 📊 Dashboard 1: Sales Performance  
-- KPI Cards (Total Sales, Total Orders)  
-- Sales Trend (Line Chart with Forecast)  
-- Category-wise Sales Analysis  
+### 📊 Sales Performance Dashboard  
+![Sales Dashboard](images/dashboard1.jpeg)
 
 ---
 
-#### 📊 Dashboard 2: Customer Insights  
-- Gender Distribution  
-- Age Group Analysis  
-- Tree Map (Category Contribution)  
-- Matrix (Age Group vs Gender)  
-- Key Influencers Visual  
-[Sales Dashboard](Dashboard1.jepg)
+### 📊 Customer Insights Dashboard  
+![Customer Dashboard](images/dashboard2.jpeg)
+
 ---
 
 ## 📈 Key Insights  
@@ -68,12 +62,12 @@ Performed key analyses using SQL:
 - Beauty category has the lowest sales  
 - Female customers contribute slightly more than male customers  
 - Age group 45–54 contributes the highest sales  
-[Customer Dashboard](Dashboard2.jepg)
+
 ---
 
 ## 💡 Business Impact  
 This analysis helps businesses:  
-- Identify high-performing product categories  
+- Identify high-performing categories  
 - Target valuable customer segments  
 - Improve marketing strategies  
 - Make data-driven decisions  
